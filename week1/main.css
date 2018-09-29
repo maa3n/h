@@ -1,0 +1,190 @@
+/* HERE START THE Navbar*/
+.navbar{
+	height: 150px;
+	width: 707px;
+	float: left;
+	border: solid 3px #2c3e50;
+    border-radius: 0px 20px 0px 0px;
+	text-align: center;
+    background-color: #227093;
+    margin-right: 12%;
+
+}
+
+/* HERE START THE MAINBODY*/
+.mainbody {
+	width: 707px;
+	height: 845.5px;
+	border: solid 3px #2c3e50;
+	float: left;
+	background-color: #ecf0f1;
+	margin-right: 12%;
+	
+
+
+
+
+}
+/* HERE START THE SIDEBAR*/
+.sidebar {
+	width: 293px;
+	border: solid 3px #2c3e50;
+	border-radius: 20px 0px 0px 0px;
+	float: left;
+	background-color: #95a5a6;
+	margin-left: 12%;
+	padding-top: 258px;
+
+}
+.sidtop {
+	padding-left: 30px;
+}
+/* HERE START THE FOOTER*/
+.footer {
+   background-color: #227093;
+   height: 100px;
+   clear: both;
+   border: solid 3px #2c3e50;
+   width: 1007px;
+   float: left;
+   margin-left: 12%;
+   margin-right: 12%;
+   border-radius: 0px 0px 20px 20px;
+}
+#topcv {
+	font-size: 30px;
+	color:#d1ccc0;
+	
+}
+.topname {
+	color: white;
+	font-size: 40px;
+	text-decoration: underline;
+}
+.lan {
+ display: inline-block;
+ padding-left: 20px;
+ padding-top: 50px;
+
+}
+.sidtopinfo {
+	padding-left: 75px;
+	padding-bottom: 10px;
+
+}
+.info {
+
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-weight: bolder;
+}
+.infobor {
+	font-weight: bolder;
+}
+
+.infodate {
+	padding-left: 30px;
+}
+.infoli{
+	padding-left: 70px;
+}
+.infop {
+	padding-left: 104px;
+}
+.lan {
+	padding-bottom: 10px;
+}
+ul {
+	list-style-type: none;
+}
+ol {
+	list-style-type: none;
+}
+h2 {
+	padding-left: 140px;
+	color: #227093;
+}
+h3 {
+	text-decoration: underline;
+}
+p , ol {
+	color: #4b4b4b;
+}
+.infocolor {
+	color: #4b4b4b; 
+}
+strong {
+	color: black;
+}
+
+
+.flage {
+	width: 50px;
+	position: absolute;
+	left: 295px;
+	top: 740px;
+}
+.flagn {
+	width: 50px;
+	position: absolute;
+	left: 230px;
+	top: 740px;
+}
+.flags {
+	width: 50px;
+	position: absolute;
+	left: 365px;
+	top: 740px;
+}
+.phoneicone {
+	width: 30px;
+	position: absolute;
+	left: 200px;
+	top: 833px;
+}
+.mapicone {
+    width: 30px;
+	position: absolute;
+	left: 200px;
+	top: 873px;
+
+}
+.emailicone {
+    width: 30px;
+	position: absolute;
+	left: 200px;
+	top: 920px;	
+}
+.linkedinicone {
+    width: 30px;
+	position: absolute;
+	left: 200px;
+	top: 963px;	
+}
+.jobbag {
+    width: 50px;
+	position: absolute;
+	left: 520px;
+	top: 170px;	
+}
+.cursus {
+    width: 50px;
+	position: absolute;
+	left: 520px;
+	top: 577px;		
+}
+.goup {
+    width: 50px;
+	position: absolute;
+    left: 1105px;
+	top: 1050px;	
+}
+.myphoto {
+    width: 220px;
+	position: absolute;
+    left: 210px;
+	top: 30px;
+	border-radius: 70px 0px 60px 0px;	
+
+}
+
